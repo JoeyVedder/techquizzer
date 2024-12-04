@@ -19,7 +19,7 @@ Clone the repository, go to project directory, install dependecies using npm i, 
 
 ## Usage
 
-To start the program type npm run start:dev inside the terminal
+To start the program type npm run start to start the api in the server, then when thats loaded up open a new terminal and type "npm run cypress" (make sure cypress is installed). When cypress opens you can click e2e or component to test which file you want to. If you need more detailed instructions please click this [video](https://youtu.be/JD4WaTg6PbE)
 
 
 
